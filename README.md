@@ -10,4 +10,4 @@ There are two notebooks showing the setup of "position esitmation algorithm" ill
 
 One notebook shows the setup of one model performing regression tasks to predict: longtitude and latitude.
 
-Another notebook shows the setup of two models performing classifcation tasks: (1) building ID and (2) floor level
+Another notebook shows the setup of two models performing classifcation tasks: (1) building ID and (2) floor level.
